@@ -1,0 +1,53 @@
+#specialist{
+  padding: 120px 0;
+  background: #d9d9d9;
+}
+#specialist .three-itens{
+  display: flex;
+  justify-content: space-around;
+  gap: 16px;
+}
+#specialist .content-title-section{
+  padding-bottom: 32px;
+}
+
+#further-areas{
+  padding: 120px 0;
+  background: #fff;
+}
+#further-areas .three-itens{
+  display: flex;
+  justify-content: space-around;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+#further-areas .content-title-section{
+  padding-bottom: 32px;
+}
+#further-areas .content-title-section .subtitle{
+  font-size: 18px;
+}
+#further-areas .three-itens .itens-card{
+  border: 1px solid black;
+  margin-top: 24px;
+}
+
+
+
+#jobs-concluded{
+  padding: 120px 0;
+  background: #fff;
+}
+
+#jobs-concluded .itens{
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+#jobs-concluded .itens .icon-check{
+  width: 24px;
+  margin-right: 8px;
+}
+#jobs-concluded .itens .desc .subtitle{
+  font-size: 18px;
+}
