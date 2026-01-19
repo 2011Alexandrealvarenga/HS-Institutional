@@ -4,6 +4,7 @@ import '../assets/css/style.css';
 
 import Specialities from '@/components/parts-site/Specialities';
 import FurtherAreas from '@/components/parts-site/furtherAreas';
+import JobsConcluded from '@/components/parts-site/jobsConcluded';
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, veritatis.</p>
       <Specialities></Specialities>
       <FurtherAreas></FurtherAreas>
+      <JobsConcluded></JobsConcluded>
     </div>
   );
 }
