@@ -44,7 +44,7 @@
 #jobs-concluded{
   position: relative;
   padding: 120px 0;
-  background-image: url('/assets/img/obras-concluidas.PNG');
+  background-image: url('../../assets/img/obras-concluidas.PNG');
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
