@@ -82,8 +82,8 @@ export default function Specialities() {
             </div>
           </div>
         </div>
+        {/* teste */}
       </section>
-      {/* teste */}
     </div>
   );
 }
