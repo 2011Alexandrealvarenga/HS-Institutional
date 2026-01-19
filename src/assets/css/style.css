@@ -37,7 +37,9 @@
   margin-top: 24px;
 }
 
-
+#we-are .imgback{
+  background-image: url('../../assets/img/quem-somos.jpeg');
+}
 
 #jobs-concluded{
   position: relative;
