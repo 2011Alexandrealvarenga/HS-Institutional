@@ -9,9 +9,14 @@ import WeAre from '@/components/parts-site/weAre';
 import WorksProgress from '@/components/parts-site/works-progress';
 import Contact from '@/components/parts-site/contact';
 
+import Carousel from '@/components/parts-site/carousel';
+
+
 export default function Home() {
   return (
     <div>
+
+      <Carousel></Carousel>
       <hr className="split-section"></hr>
       <WeAre></WeAre>
 
