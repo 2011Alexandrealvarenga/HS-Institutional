@@ -12,11 +12,21 @@ import Contact from '@/components/parts-site/contact';
 export default function Home() {
   return (
     <div>
+      <hr className="split-section"></hr>
       <WeAre></WeAre>
+
+      <hr className="split-section"></hr>
       <Specialities></Specialities>
+      
+      <hr className="split-section"></hr>
       <FurtherAreas></FurtherAreas>
+
+      <hr className="split-section"></hr>
       <JobsConcluded></JobsConcluded>
+      <hr className="split-section"></hr>
       <WorksProgress></WorksProgress>
+
+      <hr className="split-section"></hr>     
       <Contact></Contact>
     </div>
   );
