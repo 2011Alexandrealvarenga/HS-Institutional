@@ -6,6 +6,7 @@ import Specialities from '@/components/parts-site/Specialities';
 import FurtherAreas from '@/components/parts-site/furtherAreas';
 import JobsConcluded from '@/components/parts-site/jobsConcluded';
 import WeAre from '@/components/parts-site/weAre';
+import WorksProgress from '@/components/parts-site/works-progress';
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Specialities></Specialities>
       <FurtherAreas></FurtherAreas>
       <JobsConcluded></JobsConcluded>
+      <WorksProgress></WorksProgress>
     </div>
   );
 }
