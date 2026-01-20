@@ -7,8 +7,7 @@ export default function weAre() {
     <div>
       <section id="we-are" className="full_column_image text-center text-lg-start">
         <div className="row">
-          <div className="col-12 col-lg-6 image imgback" 
-            >
+          <div className="col-12 col-lg-6 image imgback">
             <div className="image-overlay"></div>
           </div>
           <div className="col-12 col-lg-6 content">

@@ -141,6 +141,7 @@
 #contact .iframe-section{
   padding: 0;
 }
+
 .full_column_image .content{
   padding:80px 15px;
 }
@@ -152,7 +153,9 @@
   min-height:300px;
   position: relative;
 }
-
+  #works-progress .worksBackground{
+    background-image: url('../../assets/img/obras-em-andamento.jpeg');
+  }
 /* Responsive  */
 
 @media (max-width:991px){
@@ -186,6 +189,7 @@
   #works-progress .hr-line-title {
       margin: 8px auto!important;
   }
+
 
   #contact .subtitle,
   #works-progress .content-text{
